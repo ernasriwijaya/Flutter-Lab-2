@@ -4,13 +4,9 @@ A new Flutter project.
 
 # Youtube Link
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/embed/8aaarv64XIA" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/embed/8aaarv64XIA"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8aaarv64XIA/0.jpg)](https://www.youtube.com/watch?v=8aaarv64XIA)
 
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
