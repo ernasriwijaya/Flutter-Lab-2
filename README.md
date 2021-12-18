@@ -3,7 +3,13 @@
 A new Flutter project.
 
 # Youtube Link
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8aaarv64XIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/embed/8aaarv64XIA" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/embed/8aaarv64XIA"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
 
 ## Getting Started
 
